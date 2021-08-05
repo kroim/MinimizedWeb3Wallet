@@ -8,6 +8,7 @@ Web3 Wallet module
 Uniswap Interface is minimized to use Web3 module.
 
 ### Local running
+
 - clone repo
 ```
 git clone https://github.com/kroim/MinimizedWeb3Wallet.git
